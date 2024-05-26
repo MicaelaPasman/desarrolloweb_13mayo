@@ -448,6 +448,8 @@ h1 {
 
     nav.nav-desktop {
         display: none
+        top: 5px; 
+        background-color: red;
     }
 
     nav.nav-mobile {
